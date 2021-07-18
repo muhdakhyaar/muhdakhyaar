@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @muhdakhyaar
+- 👀 I’m interested in computer sciences and geology
+- 🌱 I’m currently learning CS50 Intro to Computer Science
